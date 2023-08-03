@@ -23,7 +23,7 @@
 			accessToken: accessToken,
 			container: map_base,
 			interactive: true,
-			style: 'mapbox://styles/marco-sciaini/clkpajzok00lx01qyccz69epq',
+			style: 'mapbox://styles/marco-sciaini/clkv4afmh002601pb221i3vqv',
 			center: [viewState.longitude, viewState.latitude],
 			zoom: viewState.zoom,
 			projection: 'globe',
