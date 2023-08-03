@@ -30,7 +30,6 @@
 		at.features[0].geometry.coordinates.push(coordinates[scrollyState]);
 		map.getSource('trace').setData(at);
 		map.panTo(coordinates[scrollyState]);
-		map.setZoom(14);
 	}
 
 </script>
